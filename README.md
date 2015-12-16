@@ -4,8 +4,8 @@
 
 ## Lesson Index
 
-- [<font color="green">__Getting Started: Installing the R Toolchain__</font>](https://afit.shinyapps.io/R-Installation/r-installation.Rmd)
-- [<font color="green">__Getting Started: What is R?__</font>](https://afit.shinyapps.io/R-Introduction/r-introduction.Rmd)
+- [<font color="green">__Getting Started: Installing the R Toolchain__</font>](https://afit.shinyapps.io/R-Installation)
+- [<font color="green">__Getting Started: What is R?__</font>](https://afit.shinyapps.io/R-Introduction)
 - [<font color="blue">__The Basics: Creating and Manipulating R Objects__</font>](https://afit.shinyapps.io/R-Objects/R-Objects.Rmd)
 - [<font color="blue">__The Basics: Getting Help__</font>](https://afit.shinyapps.io/r-help)
 - [<font color="blue">__The Basics: R Packages__</font>](https://afit.shinyapps.io/r-packages)
